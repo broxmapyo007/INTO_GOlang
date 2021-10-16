@@ -25,5 +25,5 @@ func main() {
 
 	fmt.Println("and ", istrue && isfale)
 	fmt.Println("or ", istrue || isfale)
-	fmt.Printf("not ", !isfale)
+	fmt.Print("not ", !isfale)
 }
